@@ -17,7 +17,7 @@ resume_title:                   "C.W.A. Resume"
 resume_contact_email:           "cwacoderwithattitude@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+49 178 196 42 90"
+resume_contact_telephone:       "+49 151 21 366 110"
 resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
@@ -35,19 +35,19 @@ resume_looking_for_work:        "no"
 # Decide which sections to use
 # comment out to hide
 resume_section_experience:      true
-resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
+resume_section_education:       false #true
+resume_section_projects:        false #true
+resume_section_skills:          false #true
+resume_section_recognition:     false #true
+resume_section_links:           false #true
+resume_section_associations:    false
 # resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://CWA.CoderWithAttitude.github.io"
-  #resume_twitter_url:           "http://twitter.com/jglovier"
+  resume_twitter_url:           "http://twitter.com/JavaVolker"
   #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   #resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
