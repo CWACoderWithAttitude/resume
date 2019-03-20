@@ -1,15 +1,24 @@
 # Skills
 # Organizational leadership
-- skill: Technical project managemant
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Technical Project Managemant
+  description: I'm good at leading a team in a technical sense. I try to help my team achieve the customers goals. In time. And sometimes in money.
+
+- skill: Language agnosticer
+  description: Whether it be a JVM language like Java or Kotlin, something interpreted like NodeJS, Python or languages like PL/1 - I always try to choose the one that is the best fit for the problem and the team
 
 # Communications strategy
-- skill: CI/CD Guru
-  description: Design and setup of automated system setups using Jenkins, Docker, Groovy, Bash... I Implemented configuration as code pattern to make build processes more reliable and maintainable.
+- skill: DevOps, CI/CD Guru
+  description: Design and setup of automated system setups using Jenkins, Docker, Groovy, Bash... I Implemented configuration as code pattern to make build processes more reliable and maintainable
 
 # Digital content development and creation
 - skill: Matomo / Piwik Guy
   description: Build a flexible system to implement webtracking on websites hosted on Adobe AEM with JEE, Apache Felix OSGI, Javascript and XSL
 
 - skill: Infrastructure Guy
-  description: Plan, build, setup and maintain (test-)systems with Linux and Docker. 
+  description: Keeping an eye on all the services and systems. Whether it be docker, kubernetes or native, bare metal or software defined.
+
+- skill: Burning Curiosity
+  description: Technologies like Docker, Kotlin, Alexa, Serverless... wanted to be explored. Gadgets like MCUs with ESP8266 or ESP32 had to be examined with Python. Lets see whats next - maybe BitCoin stuff....
+
+- skill: Lego adict
+  description: I'm on Lego since i was a little boy. Today its Mindstorms EV3. And Python.
