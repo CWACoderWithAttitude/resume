@@ -1,12 +1,15 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
+- skill: Technical project managemant
   description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: CI/CD Guru
+  description: Design and setup of automated system setups using Jenkins, Docker, Groovy, Bash... I Implemented configuration as code pattern to make build processes more reliable and maintainable.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Matomo / Piwik Guy
+  description: Build a flexible system to implement webtracking on websites hosted on Adobe AEM with JEE, Apache Felix OSGI, Javascript and XSL
+
+- skill: Infrastructure Guy
+  description: Plan, build, setup and maintain (test-)systems with Linux and Docker. 

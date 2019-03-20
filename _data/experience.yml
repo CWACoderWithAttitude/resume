@@ -2,18 +2,53 @@
 # Senior Software Engineer
 - company: Unterschied & Macher GmbH
   position: Senior Software Engineer
+  duration: Jan, 2016 &mdash; Present
+  summary: Maintain and develop software for Adobe AEM. JEE development and bugfixing. <ul class="resume-item-list"><li>AEM Software Develpopment in Java &amp; Groovy</li><li>Develop JWT connector for Adobe AEM</li><li>Introduce docker and migrate all development-servers to docker</li><li>Implement Matomo/Piwik Tracking for AEM Content</li><li>Internal consultancy</li><li>Workshops on AWS Lamba and NodeJS</li><li>Facilitate AWS UG Meeting and talk about AWS Lamba &amp; Kotlin</li><li>Setup Jenkins build pipeline in groovy &amp; Job-DSL</li><li>Maintain Nexus-server</li><li>Taking care of working students</li><li>Develop a BDD test suite</li><li>Setup monitoring with check_mk</li></ul>
+
+# Senior Software Engineer
+- company: BESS GmbH
+  position: Senior Technical Consultant / Senior Software Engineer
+  duration: Nov, 2014 &mdash; 06/2015
+  summary: Convert standard Java application into a Wildfy based JEE application and 2nd level support for customers and internal <ul class="resume-item-list"><li>Develop JEE components</li><li>Support non-technical application testing</li><li>Run & maintain Jenkins Buildserver</li><li>Establish docker based selenium grid for run BDD tests</li><li>Part of a team to migrate CVS to GIT</li><li>Setup, configuration of Tomcat, Wildfly, WebSphere and Weblogic application servers</li></ul>
+
+# Senior Software Engineer
+- company: Medical Columbus AG
+  position: Senior Java EE Engineer
   duration: Jan, 2015 &mdash; Present
+  summary: Redesign and implementation of the core business software <ul class="resume-item-list"></ul><li>Design and Implementation of JEE 7 Software</li><li>Technical Project Management</li><li>Develop AngularJS based frontend components</li><li>Applicartion of MongoDB</li><li>Implement Solr Search Server</li><li>Setup and maintainance of Amazon EC2 instances</li><li>Give internal training on Scrum, Git and Jira</li></ul>
+
+# Senior Software Engineer
+- company: Etecture GmbH
+  position: Senior Software Developer
+  duration: Jan, 2015 &mdash; Present
+  summary: Developing a software to implement parts of a car configurator. Coordinte testing efforts with other remote teams and cutomers. 	<ul class="resume-item-list"><li>JEE components</li><li>Setup and maintainance of local and remote test servers</li><li>Implement CI/CD pipeline</li></ul>
+
+# Senior Software Engineer
+- company: Adtech AG / AOL
+  position: Senior Software Engineer
+  duration: Jan, 2008 &mdash; , Apr 2012
+  summary: Developing SOAP and REST webservices, Maintainance and development of HeliosIQ ad server, International 2nd and 3rd Level Support, Software development for AEMWrite about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Implement framework to test all published SOAP web services</li><li>Part project manager</li><li>Maintain local and cloud based test servers</li></ul>
+
+# Senior Software Engineer
+- company: Subito
+  position: Software Developer, Consultant
+  duration: Jul, 2007 &mdash; Feb 2008
+  summary: Implement software components to integrate Subito products with customer environment in Java and C++.  <ul class="resume-item-list"><li>Integrate Subito with bank mainframe</li></ul>
+
+# Senior Software Engineer
+- company: Volker Benders
+  position: Contract Software Engineer / Search Engine Consultant
+  duration: Jan, 2003 &mdash; Jun, 2006
   summary: Software development for AEMWrite about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Senior Software Engineer
+- company: Excalibur / Convera
+  position: Technical Consultant / Software Engineer
+  duration: Feb, 2001 &mdash; Dec, 2002
+  summary: Software development for AEMWrite about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Senior Software Engineer
+- company: CA Computer Associates
+  position: Senior Software Engineer
+  duration: Jan, 1998 &mdash; Jan, 2001
+  summary: Software development for AEMWrite about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
