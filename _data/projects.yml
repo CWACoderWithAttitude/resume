@@ -1,37 +1,18 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
-
 # migratopn cq5.4 -> AEM 6.1
-- project: cq_aem_migration
+- project: Migrate CQ 5.4 to AEM 6.1
   role: Consultant & Developer
   duration: 2016
   # url: "#"
-  description: Migrating Adobe CQ 5.4 to AEM 6.1. Including
+  description: Migrating Adobe CQ 5.4 to AEM 6.1. Including system analysis, identifying deprecations, plannig migration strategies and implementing changes with Java, OSGI, ExtJS, XSL and JavaScript
 
-# DZ Piwik
 - project: Piwik
   role: Senior Developer, Consultant, System Administrator
   duration: 2016 &mdash; 2018
   # url: "#"
-  description: Implementing Piwik with websites hosted on AEM. We had to develop Custom Javascript, Felix OSGI Components and
+  description: Implementing Piwik with websites hosted on AEM. This involved adminstation of production and test linux and MySQL systems, project management, system design and implementation of OSGI, JavaScript, JSP components and XSL stylesheets
 
-# Springfield Community Outreach Group
-- project: R&V Hund 
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Antragsstrecken / Applicant Streches
+  role: Senior Developer, Consultant, Docker Lead
+  duration: 2018 &mdash; 2019
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
-
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
-
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Implementing parts of the backend logic for a Wildfly 10 based solution. Setup and maintain Docker based Wildfly server setups.
