@@ -15,7 +15,7 @@
   description: Build a flexible system to implement webtracking on websites hosted on Adobe AEM with JEE, Apache Felix OSGI, Javascript and XSL
 
 - skill: Infrastructure Guy
-  description: Keeping an eye on all the services and systems. Whether it be docker, kubernetes or native, bare metal or software defined.
+  description: Keeping an eye on all the services and systems. Whether it be docker, kubernetes or native, wildfly, jboss, bare metal or software defined.
 
 - skill: Burning Curiosity
   description: Technologies like Docker, Kotlin, Alexa, Serverless... wanted to be explored. Gadgets like MCUs with ESP8266 or ESP32 had to be examined with Python. Lets see whats next - maybe BitCoin stuff....
