@@ -11,8 +11,20 @@
   # url: "#"
   description: Implementing Piwik with websites hosted on AEM. This involved adminstation of production and test linux and MySQL systems, project management, system design and implementation of OSGI, JavaScript, JSP components and XSL stylesheets
 
+- project: AEM Support
+  role: Consultant, Senior Software Developer
+  duration: 2016 &mdash; 2018
+  # url: "#"
+  description: Bug fixing and implementing new features. Implemented PoC for Authentication via JWT and KeyCloak. 
+
 - project: Antragsstrecken / Applicant Streches
   role: Senior Developer, Consultant, Docker Lead
   duration: 2018 &mdash; 2019
   # url: "#"
   description: Implementing parts of the backend logic for a Wildfly 10 based solution. Setup and maintain Docker based Wildfly server setups.
+
+- project: AEM Sinequa Integration
+  role: Senior Developer
+  duration: 2018 &mdash; 2019
+  # url: "#"
+  description: Design and implement components to integrate sinequa interface with multiple tenants / websites. Add custom metadata from page contents and jcr structure to indexed pages.

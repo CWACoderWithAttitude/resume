@@ -3,8 +3,8 @@
 - skill: Technical Project Managemant
   description: I'm good at leading a team in a technical sense. I try to help my team achieve the customers goals. In time. And sometimes in money.
 
-- skill: Language agnosticer
-  description: Whether it be a JVM language like Java or Kotlin, something interpreted like NodeJS, Python or languages like PL/1 - I always try to choose the one that is the best fit for the problem and the team
+- skill: Language agnostic
+  description: Whether it be a JVM language like Java or Kotlin, something interpreted like NodeJS, Python or languages like PL/1 and JCL - I always try to choose the one that is the best fit for the problem and the team
 
 # Communications strategy
 - skill: DevOps, CI/CD Guru
