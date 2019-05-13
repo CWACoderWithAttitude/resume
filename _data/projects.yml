@@ -10,11 +10,17 @@
   # url: "#"
   description: Implementing backend logic for a Wildfly 10 based solution. Setup and maintain Docker based Wildfly server setups.
 
+- project: Developemnt Infrastructure
+  role: Infra Bob
+  duration: 2017 &mdash; 2019
+  # url: "#"
+  description: Dockerize and Maintain Nexus, Jenkins, SonarQube, Wildfly, JBoss. Implement Jenkins build-pipeline and configuration as code pattern.
+
 - project: Piwik
   role: Senior Developer, Consultant, System Administrator
   duration: 2016 &mdash; 2018
   # url: "#"
-  description: Implementing Piwik with websites hosted on AEM. This involved adminstation of production and test linux and MySQL systems, project management, system design and implementation of OSGI, JavaScript, JSP components and XSL stylesheets
+  description: Implementing Piwik with websites hosted on AEM. Manage test, int and production Piwik severs with MySQL. Coordinate efforts with implementation partner. Handle customer issues, paer project management. Design and implementation of OSGI, JavaScript, JSP components and XSL stylesheets
 
 - project: AEM Support
   role: Consultant, Senior Software Developer
