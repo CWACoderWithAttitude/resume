@@ -1,9 +1,14 @@
-# migratopn cq5.4 -> AEM 6.1
-- project: Migrate CQ 5.4 to AEM 6.1
-  role: Consultant & Developer
-  duration: 2016
+- project: AEM Sinequa Integration
+  role: Senior Developer
+  duration: 2018 &mdash; 2019
   # url: "#"
-  description: Migrating Adobe CQ 5.4 to AEM 6.1. Including system analysis, identifying deprecations, plannig migration strategies and implementing changes with Java, OSGI, ExtJS, XSL and JavaScript
+  description: Design and implement components to integrate sinequa interface with multiple tenants / websites. Add custom metadata from page contents and JCR structure to indexed pages.
+
+- project: Antragsstrecken / Applicant Streches
+  role: Senior Developer, Consultant, Docker Lead
+  duration: 2018 &mdash; 2019
+  # url: "#"
+  description: Implementing backend logic for a Wildfly 10 based solution. Setup and maintain Docker based Wildfly server setups.
 
 - project: Piwik
   role: Senior Developer, Consultant, System Administrator
@@ -17,14 +22,39 @@
   # url: "#"
   description: Bug fixing and implementing new features. Implemented PoC for Authentication via JWT and KeyCloak. 
 
-- project: Antragsstrecken / Applicant Streches
-  role: Senior Developer, Consultant, Docker Lead
-  duration: 2018 &mdash; 2019
+# migratopn cq5.4 -> AEM 6.1
+- project: Migrate CQ 5.4 to AEM 6.1
+  role: Consultant & Developer
+  duration: 2016
   # url: "#"
-  description: Implementing parts of the backend logic for a Wildfly 10 based solution. Setup and maintain Docker based Wildfly server setups.
+  description: Migrating Adobe CQ 5.4 to AEM 6.1. Including system analysis, identifying deprecations, plannig migration strategies and implementing changes with Java, OSGI, ExtJS, XSL and JavaScript
 
-- project: AEM Sinequa Integration
-  role: Senior Developer
-  duration: 2018 &mdash; 2019
+- project: Abacus Migration
+  role: Senior Technical Consultant
+  duration: 2014-2015
+  description: Transform GWT webapp into JEE app on wildfly
+
+- project: Medical
+  role: Senior JEE Engineer
+  duration: 2014
+  description: Implement next version of the companies core software. Wildfly, MongoDB, SolR, JSF and Angular,
+
+- project: Hybrid Mobile App
+  role: Senior Software Engineer, Part Project Manager
+  duration: 2013
+  description: Develop hybrid mobil app supporting Android and iOS with Apache Cordova. Develop Cordova components, Test-Management
+
+- project: Car-Configurator
+  role: Senior Software Engineer
+  duration: 2012
+  description: JEE, Testing, 
+
+- project: AdServer
+  role: Software Engineer, 2nd & 3rd Level support
+  duration: 2008-2012
   # url: "#"
-  description: Design and implement components to integrate sinequa interface with multiple tenants / websites. Add custom metadata from page contents and jcr structure to indexed pages.
+  description: Devlopment and maintainace for HeliosIQ AdServer. Develop Apache Struts Frontend and Kodo based SOAP WebServices.
+
+
+
+
