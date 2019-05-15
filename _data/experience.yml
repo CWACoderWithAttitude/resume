@@ -14,7 +14,7 @@
   duration: 2014
   summary: Redesign and implementation of the core business software <ul class="resume-item-list"></ul><li>Design and Implementation of JEE 7 Software</li><li>Technical Project Management</li><li>Develop AngularJS based frontend components</li><li>Implement MongoDB</li><li>Implement Solr Search Server</li><li>Setup and maintainance of Amazon EC2 instances</li><li>Give internal training on Scrum, Git and Jira</li></ul>
 
-- company: Etecture GmbH, Frankfurt
+- company: ETECTURE GmbH, Frankfurt
   position: Senior Software Developer
   duration: 2012 &mdash; 2013
   summary: Developing a software to implement parts of a car configurator. Coordinte testing efforts with other remote teams and cutomers. 	<ul class="resume-item-list"><li>Part in a Team of JEE developers</li><li>Setup and maintainance of local and remote test servers</li><li>Implement CI/CD pipeline</li></ul>
@@ -44,5 +44,5 @@
 - company: I&S GmbH, Platinum, CA Computer Associates, Munich
   position: Consultant
   duration: 1998 &mdash; 2001
-  summary: Consulting and Software Development. Software testing.<ul class="resume-item-list"><li>Y2K maintainance for mainframe applications with PL/1 and IMS</li><li>Implement J2EE application to manage test data for car components.</li><li>L10n testing for UniCenter TNG (Paderborn)</li></ul> fY2k maintainance for mainframe applications written PL/1 and IMS.BMW, mainframe, java, unicenter tng paderborn
+  summary: Consulting and Software Development. Software testing.<ul class="resume-item-list"><li>Y2K maintainance for mainframe applications with PL/1 and IMS</li><li>Implement J2EE application to manage test data for car components.</li><li>L10n testing for UniCenter TNG (Paderborn)</li></ul> Y2k maintainance for mainframe applications written PL/1 and IMS.BMW, mainframe, java, unicenter tng paderborn
 
