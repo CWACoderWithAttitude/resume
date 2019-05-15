@@ -1,41 +1,41 @@
-- project: AEM Sinequa Integration
+- project: AEM Sinequa Integration, Financial
   role: Senior Developer
   duration: 2018 &mdash; 2019
   # url: "#"
   description: Design and implement components to integrate sinequa interface with multiple tenants / websites. Add custom metadata from page contents and JCR structure to indexed pages.
 
-- project: Antragsstrecken / Applicant Streches
+- project: Antragsstrecken / Applicant Streches, Insurance
   role: Senior Developer, Consultant, Docker Lead
   duration: 2018 &mdash; 2019
   # url: "#"
   description: Implementing backend logic for a Wildfly 10 based solution. Setup and maintain Docker based Wildfly server setups.
 
-- project: Developemnt Infrastructure
+- project: Developemnt Infrastructure, Information Technology
   role: Infra Bob
   duration: 2017 &mdash; 2019
   # url: "#"
   description: Dockerize and Maintain Nexus, Jenkins, SonarQube, Wildfly, JBoss. Implement Jenkins build-pipeline and configuration as code pattern.
 
-- project: Piwik
+- project: Piwik, Finacial
   role: Senior Developer, Consultant, System Administrator
   duration: 2016 &mdash; 2018
   # url: "#"
   description: Implementing Piwik with websites hosted on AEM. Manage test, int and production Piwik severs with MySQL. Coordinate efforts with implementation partner. Handle customer issues, paer project management. Design and implementation of OSGI, JavaScript, JSP components and XSL stylesheets
 
-- project: AEM Support
+- project: AEM Support, Financial
   role: Consultant, Senior Software Developer
   duration: 2016 &mdash; 2018
   # url: "#"
   description: Bug fixing and implementing new features. Implemented PoC for Authentication via JWT and KeyCloak. 
 
 # migratopn cq5.4 -> AEM 6.1
-- project: Migrate CQ 5.4 to AEM 6.1
+- project: Migrate CQ 5.4 to AEM 6.1, Financial
   role: Consultant & Developer
   duration: 2016
   # url: "#"
   description: Migrating Adobe CQ 5.4 to AEM 6.1. Including system analysis, identifying deprecations, plannig migration strategies and implementing changes with Java, OSGI, ExtJS, XSL and JavaScript
 
-- project: Abacus Migration
+- project: Abacus Migration, Financial
   role: Senior Technical Consultant
   duration: 2014-2015
   description: Transform GWT webapp into JEE app on wildfly
@@ -45,28 +45,39 @@
   duration: 2014
   description: Implement next version of the companies core software. Wildfly, MongoDB, SolR, JSF and Angular,
 
-- project: Hybrid Mobile App
+- project: Hybrid Mobile App, Information Technology
   role: Senior Software Engineer, Part Project Manager
   duration: 2013
   description: Develop hybrid mobil app supporting Android and iOS with Apache Cordova. Develop Cordova components, Test-Management
 
-- project: Operieren in Afrika
+- project: Operieren in Afrika, Charity
   role: Senior Software Engineer
   duration: 2013
   url: "http://www.operieren-in-afrika.de"
   description: Pro-bono - build websites for non-profit organisation.
 
-- project: Car-Configurator
+- project: Car-Configurator, Automobile
   role: Senior Software Engineer
   duration: 2012
   description: JEE, Testing, 
 
-- project: AdServer
+- project: AdServer, Internet
   role: Software Engineer, 2nd & 3rd Level support
   duration: 2008-2012
   # url: "#"
   description: Devlopment and maintainace for HeliosIQ AdServer. Develop Apache Struts Frontend and Kodo based SOAP WebServices.
 
+- project: Account Blocking, Financial
+  role: Software Engineer, Consulatant
+  duration: 2007
+  # url: "#"
+  description: Implement software to block / unblock bank accounts and corresponding credit cards
+
+- project: Mortgage Management, Insurance
+  role: Software Engineer, Consulatant
+  duration: 2007
+  # url: "#"
+  description: Develop an application to support managent of mortgage loans
 
 
 
