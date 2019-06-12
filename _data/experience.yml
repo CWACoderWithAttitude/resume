@@ -37,12 +37,12 @@
 - company: Excalibur / Convera, Munich & Vienna
   position: Technical Consultant / Software Engineer
   duration: 2001 &mdash; 2002
-  summary: Architect, design and implement software for our search and retrieval platform. Support sales activities. Provide onsite technical support.<ul class="resume-item-list"></ul><li>Implement document management workflow for a global logistics provider.</li><li>Implement framework for easier and robust integration.</li><li>Integrate retrieval into CMSes and portal servers </li></ul>
+  summary: Architect, design and implement software for our search and retrieval platform. Support sales activities. Provide onsite technical support.<ul class="resume-item-list"></ul><li>Implement document management workflow for a global logistics provider.</li><li>Implement framework for easier and more robust, fault tolerant integration.</li><li>Integrate retrieval into CMSes and portal servers </li></ul>
 
 
 # Consultant
 - company: I&S GmbH, Platinum, CA Computer Associates, Munich
   position: Consultant
   duration: 1998 &mdash; 2001
-  summary: Consulting and Software Development. Software testing.<ul class="resume-item-list"><li>Y2K maintainance for mainframe applications with PL/1 and IMS</li><li>Implement J2EE application to manage test data for car components.</li><li>L10n testing for UniCenter TNG (Paderborn)</li></ul> Y2k maintainance for mainframe applications written PL/1 and IMS.BMW, mainframe, java, unicenter tng paderborn
+  summary: Consulting and Software Development. Software testing.<ul class="resume-item-list"><li>Y2K maintainance for mainframe applications with PL/1 and IMS</li><li>Implement J2EE application to manage test data for car components.</li><li>L10n testing for UniCenter TNG (Paderborn)</li></ul> Y2k maintainance for mainframe applications written in PL/1 and IMS. BMW, mainframe, java, unicenter tng paderborn
 

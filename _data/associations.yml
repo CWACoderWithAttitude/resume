@@ -7,6 +7,11 @@
   url: https://www.meetup.com/de-DE/aws-frankfurt/
   summary: Mostly attended meetings. Give talk on Servless with AWS Lambda and Kotlin
 
+- organization: JUG, Frankfurt
+  role: Volunteer
+  year: 2015 &mdash; now
+  url: http://jugf.de
+  summary: Attending meetings. Host session themed <a href="https://sites.google.com/site/jugffm/home/29-05-2019-sie-brauchen-doch-gar-keine-microservices-oder">You don't need microservices, do you?</a>
 
 - organization: Catholic Church AHD
   role: Volunteer

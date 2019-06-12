@@ -1,13 +1,11 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
-
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
+- degree: No degree
+  uni: University of Applied Siences Gelsenkirchen 
+  year: 1993 &mdash; 1998
+  award: Electrical Engineering
+  
+- degree: Advanced technical college entrance qualification
+  uni: Technical College
+  year: 1993
+  
   summary: You can choose to have either a single or multiple awards
