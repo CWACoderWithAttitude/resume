@@ -8,9 +8,9 @@
   role: Senior Developer, Consultant, Docker Lead
   duration: 2018 &mdash; 2019
   # url: "#"
-  description: Implementing backend logic for a Wildfly 10 based solution. Setup and maintain Docker based Wildfly server setups.
+  description: Implementing backend logic for a Wildfly 10 based solution. Setup and maintain Docker based Wildfly server setups. Implementation of CI/CD configurations.
 
-- project: Developemnt Infrastructure, Information Technology
+- project: Development Infrastructure, Information Technology
   role: Infra Bob
   duration: 2017 &mdash; 2019
   # url: "#"
@@ -20,7 +20,7 @@
   role: Senior Developer, Consultant, System Administrator
   duration: 2016 &mdash; 2018
   # url: "#"
-  description: Implementing Piwik with websites hosted on AEM. Manage test, int and production Piwik severs with MySQL. Coordinate efforts with implementation partner. Handle customer issues, paer project management. Design and implementation of OSGI, JavaScript, JSP components and XSL stylesheets
+  description: Implementing Piwik/Matomo with websites implemented with Adobe AEM. Manage Piwik servers for stages test, int and production. Coordinate efforts with implementation partner. Handle customer issues, part project management. Design and implementation of OSGI Services, JavaScript- and JSP components and XSL stylesheets
 
 - project: AEM Support, Financial
   role: Consultant, Senior Software Developer
