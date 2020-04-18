@@ -1,29 +1,48 @@
+- project: Systems Engineer, Transportation
+  role: Cloud Architect, Senior Software Engineer
+  duration: 2020
+  # url: "#"
+  description: Manage infrastructure and services on AWS. Maintain spring boot based microservices on kubernetes... 
+
+- project: User-Tracking, Financial
+  role: Senior Software Engineer, Frontend Developer
+  duration: 2020
+  # url: "#"
+  description: Build GDPR compliant solution to help users manage their cookie acceptance preferences. Our solution is based on Osano Cookieconsent and is heavily customized to comply with customers CI/CD policies.
+
+- project: Piwik/Matomo-Upgrade, Financial
+  role: Senior Software Engineer, Consultant, System Administrator
+  duration: 2019 &mdash; 2020
+  # url: "#"
+  description: Migrate existing piwik instances to matomo. Gather requirements, plan and coordinate upgrade procedures.
+
+
+- project: Piwik, Financial
+  role: Senior Software Engineer, Consultant, System Administrator
+  duration: 2017 &mdash; 2020
+  # url: "#"
+  description: Implement Piwik/Matomo with websites implemented with Adobe AEM. Manage Piwik servers for stages test, int and production. Coordinate efforts with implementation partner. Handle customer issues, part project management. Design and implementation of OSGI Services, JavaScript- and JSP components and XSL stylesheets
+
+- project: Development Infrastructure, Information Technology
+  role: Infra Bob
+  duration: 2017 &mdash; 2020
+  # url: "#"
+  description: Dockerize and Maintain Nexus, Jenkins, SonarQube, Wildfly, JBoss. Implement Jenkins build-pipeline and configuration as code pattern.
+
+- project: Antragsstrecken / Applicant Streches, Insurance
+  role: Senior Software Engineer, Consultant, Docker Lead
+  duration: 2018 &mdash; 2019
+  # url: "#"
+  description: Implement backend logic for a Wildfly 10 based solution. Setup and maintain Docker based Wildfly server setups. Implementation of CI/CD configurations.
+
 - project: AEM Sinequa Integration, Financial
-  role: Senior Developer
+  role: Senior Software Engineer
   duration: 2018 &mdash; 2019
   # url: "#"
   description: Design and implement components to integrate sinequa interface with multiple tenants / websites. Add custom metadata from page contents and JCR structure to indexed pages.
 
-- project: Antragsstrecken / Applicant Streches, Insurance
-  role: Senior Developer, Consultant, Docker Lead
-  duration: 2018 &mdash; 2019
-  # url: "#"
-  description: Implementing backend logic for a Wildfly 10 based solution. Setup and maintain Docker based Wildfly server setups. Implementation of CI/CD configurations.
-
-- project: Development Infrastructure, Information Technology
-  role: Infra Bob
-  duration: 2017 &mdash; 2019
-  # url: "#"
-  description: Dockerize and Maintain Nexus, Jenkins, SonarQube, Wildfly, JBoss. Implement Jenkins build-pipeline and configuration as code pattern.
-
-- project: Piwik, Finacial
-  role: Senior Developer, Consultant, System Administrator
-  duration: 2016 &mdash; 2018
-  # url: "#"
-  description: Implementing Piwik/Matomo with websites implemented with Adobe AEM. Manage Piwik servers for stages test, int and production. Coordinate efforts with implementation partner. Handle customer issues, part project management. Design and implementation of OSGI Services, JavaScript- and JSP components and XSL stylesheets
-
 - project: AEM Support, Financial
-  role: Consultant, Senior Software Developer
+  role: Consultant, Senior Software Engineer
   duration: 2016 &mdash; 2018
   # url: "#"
   description: Bug fixing and implementing new features. Implemented PoC for Authentication via JWT and KeyCloak. 
