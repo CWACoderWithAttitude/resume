@@ -1,8 +1,8 @@
 - project: Systems Engineer, Transportation
   role: Cloud Architect, Senior Software Engineer
-  duration: 2020
+  duration: 2020 &mdash; now
   # url: "#"
-  description: Manage infrastructure and services on AWS. Maintain spring boot based microservices on kubernetes... 
+  description: Manage infrastructure and services on AWS (EC2, RDS, MQ..). Implement microservices and web applications using NodeJS and Python. Maintain spring boot based microservices on kubernetes. Implement data managent tools for use with k8s. 
 
 - project: User-Tracking, Financial
   role: Senior Software Engineer, Frontend Developer
