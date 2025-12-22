@@ -1,10 +1,10 @@
 # Skills
 # Organizational leadership
 - skill: Technical Project Managemant
-  description: I'm good at leading a team in a technical sense. I try to help my team achieve the customers goals. In time. And sometimes in money.
+  description: I like leading teams and encourage everybody to go beyond borders. I try to help my team achieve the customers goals. In time. And sometimes in money.
 
 - skill: Language agnostic
-  description: Whether it be a JVM language like Java or Kotlin, something interpreted like NodeJS, Python or languages like PL/1 and JCL - I always try to choose the one that is the best fit for the problem and the team
+  description: I understand languages are just tools to build solutions. Whether it be a JVM language like Java or Kotlin, something interpreted like Python, NodeJS, or languages like PL/1 and JCL - I always try to choose the one that's the best fit for both, problem and team
 
 # Communications strategy
 - skill: DevOps, CI/CD Guru
@@ -15,7 +15,7 @@
   description: Build a flexible system to implement webtracking on websites hosted on Adobe AEM with JEE, Apache Felix OSGI, Javascript and XSL
 
 - skill: Infrastructure Guy
-  description: Keeping an eye on all the services and systems. Whether it be docker, kubernetes or native, wildfly, jboss, bare metal or software defined.
+  description: Keeping an eye on all the services and systems. Monitoring either apps in openshift, docker, kubernetes or apps running on VMs. Using tools like Prometheus, Grafana, ELK stack, Graylog, Kibana, Splunk...
 
 - skill: Burning Curiosity
   description: Technologies like Docker, Kotlin, Alexa, Serverless... wanted to be explored. Gadgets like MCUs with ESP8266 or ESP32 had to be examined with Python. Lets see whats next - maybe BitCoin stuff....

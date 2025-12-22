@@ -1,0 +1,12 @@
+# https://winkelwagen.de/2024/04/18/jekyll-github-pages-docker-add-dependencies/
+services:
+  jekyll-resume:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ..:/site
+    ports:
+      - "4040:4000"
+      - "35730:35729"
+    command: sleep infinity

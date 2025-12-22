@@ -10,17 +10,17 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "C.W.A. Coder with attitude"
+resume_name:                    "C.W.A. Coder with Attitude"
 resume_title:                   "C.W.A. Resume"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "CWA.Coder.With.Attitude@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+49 151 21 366 110"
+resume_contact_telephone:       "+49 178 196 4290"
 resume_contact_address:         "Margeritenstr. 14, 61118 Bad Vilbel"
 
-resume_header_contact_info:     "Margeritenstr. 14, 61118 Bad Vilbel • 0151 21 366 110 • cwa.coder.with.attitude@gmail.com"
+resume_header_contact_info:     "Margeritenstr. 14, 61118 Bad Vilbel • +49 178 196 4290 • cwa.coder.with.attitude@gmail.com"
 display_header_contact_info:    "false"
 
 #resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
@@ -50,9 +50,9 @@ resume_social_links:
   resume_twitter_url:           "http://twitter.com/JavaVolker"
   #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  #resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/volkerbenders/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  #resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "https://www.volker-benders.de"
   #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
