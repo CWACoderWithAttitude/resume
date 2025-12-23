@@ -8,10 +8,15 @@
 
 ### Running locally
 
-#### Modern way
+#### Modern way - DevContainer
 
-Using the provided devcontainer you do not have to think about dependencies like ruby, github-pages plugin or the like.
-All you need is docker desktop and you're good to go: clone the repo and open / reopen the project in VS Code.
+Only requirements are: you ave docker desktop installed and your VS Code with [installed Remote Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers):
+
+- clone this repo 
+- open / reopen the project in VS Code.
+
+This will startup a new and isolated ruby environment with all required extensions and gems installed.
+
 
 #### Old school
 
