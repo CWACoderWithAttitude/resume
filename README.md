@@ -8,6 +8,13 @@
 
 ### Running locally
 
+#### Modern way
+
+Using the provided devcontainer you do not have to think about dependencies like ruby, github-pages plugin or the like.
+All you need is docker desktop and you're good to go: clone the repo and open / reopen the project in VS Code.
+
+#### Old school
+
 To test locally, run the following in your terminal:
 
 1. Clone repo locally
